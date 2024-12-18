@@ -347,3 +347,4 @@ contract DataSharing {
 Molecule Protocol v3 represents the next evolution of data ownership, empowering users to control and monetize their behavioral data while enabling advanced AI-driven recommendations.
 
 Note: Moving project from Github to Protocol.Land, code will be available by end of December 2024.
+
